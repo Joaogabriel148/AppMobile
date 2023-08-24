@@ -1,4 +1,4 @@
-<h1 align="center">App_Mobile</h1>
+<h1 align="center">Trab Avaliativo</h1>
 
 ## :memo: Descrição
 Trabalho avaliativo para obtenção da nota da matéria de Maturidade de software
