@@ -1,13 +1,18 @@
-<h1 align="center">Trab Avaliativo</h1>
+<h1 align="center">App Mobile</h1>
 
 ## :memo: Descrição
-Trabalho avaliativo para obtenção da nota da matéria de Maturidade de software
+Trabalho avaliativo para obtenção da nota da matéria de --------------------
+
+<h1 align="center">Itop🎶</h1>
 
 ## :books: Contextualização
-* <b>Contextualização </b>: --------------------------------------------------------------------------------------------------------------------------
+* <b>Contextualização </b>: A aplicação em si será um media player, onde o usuário terá acesso a musicas disponibilizadas na plataforma
+
+## :wrench: Tecnologias utilizadas
+* Java
+
 
 ## dependências
-
 * -----------------------------------------------------------------------------
 
 ```s
@@ -15,15 +20,9 @@ Trabalho avaliativo para obtenção da nota da matéria de Maturidade de softwar
 ```
 <br/>
 
-## Execução
+## :soon: Implementação futura
+* Projeto poderá conter algumas alterações de melhorias.
 
-Executa o aplicativo no modo de desenvolvimento.
-```s
-```
-## ----------
-
-```s
-```
 
 ## :handshake: Colaboradores
 <table>
@@ -37,3 +36,6 @@ Executa o aplicativo no modo de desenvolvimento.
     </td>
   </tr>
 </table>
+
+## :dart: Status do projeto
+* em fase de desenvolvimento.
