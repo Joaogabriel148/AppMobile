@@ -1,7 +1,7 @@
 <h1 align="center">App Mobile</h1>
 
 ## :memo: Descrição
-Trabalho avaliativo para obtenção da nota da matéria de --------------------
+Trabalho avaliativo para obtenção da nota
 
 <h1 align="center">Itop🎶</h1>
 
@@ -11,8 +11,7 @@ Trabalho avaliativo para obtenção da nota da matéria de --------------------
 ## :wrench: Tecnologias utilizadas
 * Java
 
-
-## dependências
+## Requisitos
 * -----------------------------------------------------------------------------
 
 ```s
