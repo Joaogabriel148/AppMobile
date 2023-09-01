@@ -6,21 +6,25 @@ Trabalho avaliativo para obtenção da nota
 <h1 align="center">Itop🎶</h1>
 
 ## :books: Contextualização
-* <b>Contextualização </b>: A aplicação em si será um media player, onde o usuário terá acesso a músicas disponibilizadas na plataforma
+* <b>Contextualização</b>: A aplicação em si será um media player, onde o usuário poderá fazer um login na plataforma e terá acesso a músicas e Playlists disponibilizadas na plataforma.
 
 ## :wrench: Tecnologias utilizadas
+* VScode
 * Java
 
 ## Requisitos
+* Autenticação (Login)
 * menu
 * navigator-bar
+* mvp
+* GreenDAO
 
 ```s
 ```
 <br/>
 
-## 
-<img src="https://github.com/Joaogabriel148/AppMobile/blob/main/spotify-mobile-personalized-home-page-100834789-orig.webp"/>
+## Model
+<img src="https://github.com/Joaogabriel148/AppMobile/blob/main/img/WhatsApp%20Image%202023-09-01%20at%2012.30.58.jpeg"/>
 
 ## :soon: Implementação futura
 * Projeto poderá conter algumas alterações de melhorias.
