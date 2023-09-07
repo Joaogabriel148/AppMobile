@@ -29,7 +29,7 @@ Trabalho avaliativo para obtenção da nota
 <br/>
 
 ## Mockup/Sotoryboard
-* <a href="https://www.figma.com/file/Sq09wTWxxIbEzU8iuzI43Q/Untitled?type=design&node-id=0%3A1&mode=design&t=e5g8RoN4yRXqb93d-1">Figma</a>
+* <a href="https://www.figma.com/file/Sq09wTWxxIbEzU8iuzI43Q/Untitled?type=design&node-id=0%3A1&mode=design&t=e5g8RoN4yRXqb93d-1">Figma in process</a>
 
 ## :soon: Implementação futura
 * Projeto poderá conter algumas alterações de melhorias.
