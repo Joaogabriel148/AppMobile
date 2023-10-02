@@ -15,9 +15,9 @@ Trabalho avaliativo para obtenção da nota
 ## Requisitos
 * Autenticação (Login)
 * menu
-* <!-- navigator-bar
-* <!-- mvp
-* <!-- GreenDAO
+* <!-- navigator-bar--!>
+* <!-- mvp--!>
+* <!-- GreenDAO--!>
 * -
 * -
 * -
