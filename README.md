@@ -14,15 +14,15 @@ Trabalho avaliativo para obtenção da nota
 
 ## Requisitos
 * Autenticação (Login)
-* menu
-* navigator-bar
-* <!-- mvp--!>
-* <!-- GreenDAO--!>
-* -
-* -
-* -
-* -
-* -
+* Menu
+* Navigator-bar
+* Mvp
+* Armazenamento
+* Material Design
+* Gadle
+* Algoritimo de Ordenação
+* Servicie
+* Notificação Push
 
 ```s
 ```
