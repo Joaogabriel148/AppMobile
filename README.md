@@ -24,6 +24,13 @@ Trabalho avaliativo para obtenção da nota
 * Servicie
 * Notificação Push
 
+  <h1 align="center">Av2</h1>
+
+## como acessar
+
+<p>Passo 1</p>
+
+<img src=""/>
 ```s
 ```
 <br/>
