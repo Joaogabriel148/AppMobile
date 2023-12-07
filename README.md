@@ -38,7 +38,7 @@ Trabalho avaliativo para obtenção da nota
 <br/>
 
 <p>Passo 2</p>
-* Após acessar a biblioteca o usuário tera um tela com uma listview onde após clicar no botão de "Adicionar item aleatório" ele vai acrescentar um item com Chave e Valor aleatórios onde serão organizados de forma decrescente (de cima para baixo)
+* Após acessar a biblioteca o usuário tera um tela com uma listview onde após clicar no botão de "Adicionar item aleatório" ele vai acrescentar um item com Chave e Valor aleatórios onde serão organizados de forma decrescente (de cima para baixo).
 <br/>
 <br/>
 <img src="IMG/pt1.png"/>
@@ -47,7 +47,7 @@ Trabalho avaliativo para obtenção da nota
 <br/>
 
 <p>Passo 3</p>
-* Na mesma tela haverá um botão para encontrar nos itens o LCS (Longest Common Subsequence), que quando precionado vai retornar a maior subsequência entre os itens aleatórios
+* Na mesma tela haverá um botão para encontrar nos itens o LCS (Longest Common Subsequence), que quando pressionado vai retornar a maior subsequência entre os itens aleatórios.
 <br/>
 <br/>
 <img src="IMG/pt2.png"/>
