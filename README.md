@@ -30,10 +30,29 @@ Trabalho avaliativo para obtenção da nota
 
 <p>Passo 1</p>
 * Acessar a biblioteca e clicar em AV2
+<br/>
+<br/>
+<img src="IMG/biblioteca.png"/>
 
-<img src=""/>
-```s
-```
+<br/>
+<br/>
+
+<p>Passo 2</p>
+* Após acessar a biblioteca o usuário tera um tela com uma listview onde após clicar no botão de "Adicionar item aleatório" ele vai acrescentar um item com Chave e Valor aleatórios onde serão organizados de forma decrescente (de cima para baixo)
+<br/>
+<br/>
+<img src="IMG/pt1.png"/>
+
+<br/>
+<br/>
+
+<p>Passo 3</p>
+* Na mesma tela haverá um botão para encontrar nos itens o LCS (Longest Common Subsequence), que quando precionado vai retornar a maior subsequência entre os itens aleatórios
+<br/>
+<br/>
+<img src="IMG/pt2.png"/>
+
+
 <br/>
 
 ## Mockup/Sotoryboard
