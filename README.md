@@ -29,6 +29,7 @@ Trabalho avaliativo para obtenção da nota
 ## como acessar
 
 <p>Passo 1</p>
+* Acessar a biblioteca e clicar em AV2
 
 <img src=""/>
 ```s
